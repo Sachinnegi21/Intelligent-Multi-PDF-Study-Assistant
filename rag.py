@@ -1,5 +1,4 @@
 import os
-
 import ollama
 import faiss
 import numpy as np
