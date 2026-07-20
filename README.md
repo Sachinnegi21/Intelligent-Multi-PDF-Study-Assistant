@@ -268,10 +268,5 @@ This project is licensed under the MIT License.
 
 ---
 
-## 👨‍💻 Author
-
-**Sachin Negi**
-
-GitHub: https://github.com/Sachinnegi21
 
 If you found this project useful, consider giving it a ⭐ on GitHub!
